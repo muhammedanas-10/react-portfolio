@@ -1,0 +1,16 @@
+.AppBar {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #333;
+    color: white;
+    box-shadow: none;
+  }
+  
+  .toolbar {
+    padding: 0 !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  

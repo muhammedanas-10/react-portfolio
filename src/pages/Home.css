@@ -1,0 +1,55 @@
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .home-content {
+    max-width: 50%;
+  }
+  
+  .home-title {
+    font-size: 3rem;
+    color: #007bff;
+  }
+  
+  .home-subtitle {
+    font-size: 2rem;
+    color: #0056b3;
+  }
+  
+  .home-description {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+ font: size 60px;
+  font-style: normal;
+  }
+  
+  button {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .social-links img {
+    width: 30px;
+    margin: 0 10px;
+  }
+  
+  .home-image img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+ 
